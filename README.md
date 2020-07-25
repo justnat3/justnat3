@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋
+
+I'm Nate. Not sure why you are on my profile, regardless- Thanks for visiting! :bookmark:
 
 - 🔭 I’m currently working on
       Machine-Name-API

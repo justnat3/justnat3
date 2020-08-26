@@ -3,10 +3,10 @@
 ### Hi there 👋, my name is Nate!
 Not exactly sure why  you clicked on my profile, however! Thank you for visiting!
 
-Skills: Python // JS // TS // Bash 
+Skills: Python // JS // Golang 
 
-- :computer: I’m currently working on the PyRoster. 
-- 🌱 I’m currently learning JS 
+- :computer: I’m currently working on the GolangLearning. 
+- 🌱 I’m currently learning Golang
 - :sparkles: Fun fact: The linux kernel has nearly 10,000 lines of code added everyday
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=justnat3&show_icons=true)  

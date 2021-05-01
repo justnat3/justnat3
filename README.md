@@ -1,6 +1,6 @@
 
 
-### Hiya- I'm Nate. 📨
+## Hiya- I'm Nate. 📨
 
 
 
@@ -8,7 +8,7 @@
 
 
 
-#### Few things about me.
+## Few things about me.
 
 I do systems-programming related projects typically.
 

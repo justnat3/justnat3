@@ -20,7 +20,7 @@ LANG
     en_US.utf-8
 
 HASH
-    0x6e617468616e2072656564
+    43617567687420796f75206c6f6f6b696e6720
 
 SEE ALSO
     tbsh(4), notebones(4), GoShutter(7)

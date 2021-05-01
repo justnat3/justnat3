@@ -13,8 +13,7 @@ DESCRIPTION
 """
 
 USED_EXTENSIONS
-    *.sh, *.c, *.go, *.rs
-    *.py, *.js,
+    *.sh, *.c, *.go, *.rs, *.py, *.js,
     
 LANG
     en_US.utf-8

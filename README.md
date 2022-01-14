@@ -23,4 +23,4 @@ HASH
     0x43617567687420796f75206c6f6f6b696e6720
 
 SEE ALSO
-    tbsh(4), notebones(4), GoShutter(7)
+    smlibppm(4), pox(4), notebones(4), GoShutter(7), the-vault(4), remoberry(4)

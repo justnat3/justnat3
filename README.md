@@ -8,8 +8,8 @@ SYNOPSIS
     justnat3 [OPTIONS]
 
 DESCRIPTION
-"""   Open Source Enthusiast. Vim/Linux User. I enjoy system-programming- 
-      most of my projects are experiments, ideas, or small exercises
+"""   Self Taught Programmer. Vim/Linux User. 
+      Most of my projects are experiments, or libraries that I use.
       I love to skate & run in empty parking lots 🚗.
 """
 

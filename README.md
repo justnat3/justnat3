@@ -24,7 +24,5 @@ LANG
 HASH
     0x43617567687420796f75206c6f6f6b696e6720
 
-SEE ALSO
-    Smlibppm(4), pox(4), notebones(4), goShutter(7), vault(4), Remoberry(4)
 ```
 <a href="https://endsoftwarepatents.org/innovating-without-patents"><img style="height: 120px;" src="https://static.fsf.org/nosvn/esp/logos/innovating-without-patents.svg"></a>

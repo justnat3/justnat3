@@ -10,10 +10,9 @@ SYNOPSIS
     justnat3 [OPTIONS]
 
 DESCRIPTION
-"""   Self Taught Programmer. Vim/Linux User. 
+      Self Taught Programmer. Vim/Linux User. 
       Most of my projects are experiments, or libraries that I use.
-      I love to skate & run in empty parking lots 🚗.
-"""
+      I love to skate & run in empty parking lots 🚗. 
 
 USED_EXTENSIONS
     *.sh, *.c, *.go, *.rs, *.py, *.js,

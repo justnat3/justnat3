@@ -5,23 +5,21 @@
 justnat3(8)
 NAME
     justnat3 — Nathan Reed
-  
-SYNOPSIS
-    justnat3 [OPTIONS]
 
 DESCRIPTION
-      Self Taught Programmer. Vim/Linux User. 
+      Self Taught Programmer and CS student in Oklahoma. Vim/Linux User (btw). 
       Most of my projects are experiments, or libraries that I use.
-      I love to skate & run in empty parking lots 🚗. 
+      I love educating (to the best of my ability) and learning (to the best of my ability)
+      the make up of the internet, these days I am dedicating a lot of my time to protocol
+      development, mostly for the sake of understanding and experimentation.
+
+      Cheers!
 
 USED_EXTENSIONS
-    *.sh, *.c, *.go, *.rs, *.py, *.js,
+    *.sh, *.go, *.py, *.js,
     
 LANG
     en_US.utf-8
-
-HASH
-    0x43617567687420796f75206c6f6f6b696e6720
 
 ```
 <a href="https://endsoftwarepatents.org/innovating-without-patents"><img style="height: 120px;" src="https://static.fsf.org/nosvn/esp/logos/innovating-without-patents.svg"></a>
